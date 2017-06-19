@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/poc-cookies/websockets-sandbox/issues"
   },
-  "homepage": "https://github.com/poc-cookies/websockets-sandbox#readme"
+  "homepage": "https://github.com/poc-cookies/websockets-sandbox#readme",
+  "dependencies": {
+    "node-static": "^0.7.9"
+  }
 }
